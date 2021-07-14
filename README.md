@@ -13,3 +13,5 @@ Enter github repo url in Source Code Management tab<br>
 Add build step and invoke gradle script<br>
 Set up a build job
 </p>
+
+Link to Jenkins - http://40.71.58.226:8080/
